@@ -69,9 +69,5 @@ https://github.com/ryczek02/Poldek-Driver-Multiplayer
 ### Github Stats
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryczek02&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryczek02&layout=compact&theme=swift&langs_count=8&card_width=325"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryczek02&layout=compact&theme=transparent"/>
 </p>
