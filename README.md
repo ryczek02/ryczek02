@@ -45,11 +45,3 @@ https://github.com/ryczek02/Polskie-jednostki-administracyjne
 **Poldek Driver Multiplayer**
 Multiplayer driver implementation for the Poldek game.
 https://github.com/ryczek02/Poldek-Driver-Multiplayer
-
----
-
-### Github Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryczek02&layout=compact&theme=transparent"/>
-</p>
